@@ -1,2 +1,2 @@
-Git is a version contro system;
-Git is a necessary software should be mastered.
+Git is a version contro 1system;
+Git is a necessary and important software should be mastered.
